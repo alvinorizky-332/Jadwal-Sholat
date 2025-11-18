@@ -24,7 +24,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     /* Ganti dengan path gambar Anda */
-    background-image: url('/Image/MASJID\ BQ\ 2.jpg');
+    background-image: url('Image/MASJID BQ 2.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
